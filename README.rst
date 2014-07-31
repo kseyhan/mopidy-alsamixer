@@ -73,6 +73,11 @@ Project resources
 Changelog
 =========
 
+v1.0.3 (2014-07-31)
+-------------------
+
+- Don't crash on epoll being interrupted by the machine suspending.
+
 v1.0.2 (2014-07-27)
 -------------------
 
